@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/folio/static/css/main.b5a216ca.css",
-    "main.js": "/folio/static/js/main.915027ac.js",
+    "main.css": "/folio/static/css/main.e74088ae.css",
+    "main.js": "/folio/static/js/main.87d21eac.js",
     "static/media/gwc-bday.mp4": "/folio/static/media/gwc-bday.586981d2627ffab8e098.mp4",
     "static/media/dial.mp4": "/folio/static/media/dial.53b420fd8e043c0472bc.mp4",
     "static/media/timeseries.mp4": "/folio/static/media/timeseries.aa2227a7e80abfb16c6e.mp4",
@@ -58,11 +58,11 @@
     "static/media/NeueMontreal-Regular.otf": "/folio/static/media/NeueMontreal-Regular.140bfb4a71fe08805d92.otf",
     "static/media/Rallisaguen-Regular.otf": "/folio/static/media/Rallisaguen-Regular.6577473d51ab04975667.otf",
     "index.html": "/folio/index.html",
-    "main.b5a216ca.css.map": "/folio/static/css/main.b5a216ca.css.map",
-    "main.915027ac.js.map": "/folio/static/js/main.915027ac.js.map"
+    "main.e74088ae.css.map": "/folio/static/css/main.e74088ae.css.map",
+    "main.87d21eac.js.map": "/folio/static/js/main.87d21eac.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5a216ca.css",
-    "static/js/main.915027ac.js"
+    "static/css/main.e74088ae.css",
+    "static/js/main.87d21eac.js"
   ]
 }
